@@ -19,4 +19,4 @@ paginate: 5
 # Sass
 sass:
     style: :compressed
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
